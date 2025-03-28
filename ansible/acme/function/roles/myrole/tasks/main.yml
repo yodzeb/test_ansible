@@ -1,0 +1,6 @@
+---
+# tasks file for myrole
+- name: Hello world
+  debug:
+    msg: "Hello World !"
+  
