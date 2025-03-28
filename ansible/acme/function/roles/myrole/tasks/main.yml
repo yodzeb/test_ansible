@@ -2,5 +2,5 @@
 # tasks file for myrole
 - name: Hello world
   debug:
-    msg: "Hello World !"
+    msg: "Hello new World !"
   
